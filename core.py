@@ -82,4 +82,4 @@ def get_agent_response(query):
         return {"error": str(e)}
 
 
-print(get_agent_response("How can you help?"))
+print(get_agent_response("Help me to plan the next retro"))
